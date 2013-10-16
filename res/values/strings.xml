@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cashless Campus</string>
+    <string name="action_settings">Settings</string>
+    <string name="explanation">2</string>
+    <string name="display"></string>
+    <string name="send">Send</string>
+    <string name="send_message"></string>
+    <string name="button">send</string>
+    <string name="enterserialnumber">Enter serial number </string>
+    <string name="company">Cashless Campus</string>
+    <string name="received">received</string>
+    <string name="show">received</string>
+    <string name="editText2"></string>
+    <string name="logo">CASHLESS CAMPUS</string>
+    <string name="image"></string>
+</resources>
